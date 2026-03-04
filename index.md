@@ -76,19 +76,19 @@ Photography, Illustration, Creative and Essay writing
 `2024-2026`
 Dr Jemma Taylor
 
-- **Rockhampton Base Hospital**, _Director of Medicine/Infectious Disease Staff Specialist_
+- **Rockhampton Base Hospital**, _Directory of Medicine/Staff Specialist_
 - jemma.taylor@health.qld.gov.au 
 
 `2024-2026`
 Dr Janaka Hewavithana
 
-- **Rockhampton Base Hospital**, _Directory of Medicine/Staff Specialist General Medicine_
+- **Rockhampton Base Hospital**, _Directory of Medicine/Staff Specialist_
 - janaka.hewavithana@health.qld.gov.au
 
 `2025-2026`
 Dr Girish Bommayya
 
-- **Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_
+- **Rockhampton Base Hospital**, _Staff Specialist_
 - girish.bommayya@health.qld.gov.au
 
 <!-- ### Footer
