@@ -12,6 +12,7 @@ APHRA ID: MED0002138284
 `2024-2026`
 **Rockhampton Base Hospital**, Rockhampton 
 
+
 - Basic Physician Trainee  
 
 `2023-2024`
@@ -32,7 +33,8 @@ APHRA ID: MED0002138284
 
 `2018-2020`
 **The Townsville Hospital**, Townsville
-Junior House Officer, Intern 
+
+- Junior House Officer, Intern 
 
 `2010-2013`
 **Laverty Pathology**, Canberra 
@@ -70,25 +72,23 @@ Photography, Illustration, Creative and Essay writing
 
 ## References  
 
+`2024-2026`
 Dr Jemma Taylor
-**Rockhampton Base Hospital**, _Director of Medicine/Infectious Disease Staff Specialist_
 
+- **Rockhampton Base Hospital**, _Director of Medicine/Infectious Disease Staff Specialist_
 - jemma.taylor@health.qld.gov.au 
 
+`2024-2026`
 Dr Janaka Hewavithana
-**Rockhampton Base Hospital**, _Directory of Medicine/Staff Specialist General Medicine_
 
+- **Rockhampton Base Hospital**, _Directory of Medicine/Staff Specialist General Medicine_
 - janaka.hewavithana@health.qld.gov.au
 
+`2025-2026`
 Dr Girish Bommayya
-**Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_ 
 
-- girish.bommayya@health.qld.gov.au
-
-
+- **Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_ 
 
 <!-- ### Footer
 
 Last updated: March 2026 -->
-
-
