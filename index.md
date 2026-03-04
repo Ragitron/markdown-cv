@@ -1,17 +1,18 @@
 ---
 layout: cv
-title: Dr Igar Tareasyuk
+title: Dr Igar Tarasyuk
 ---
 
 # Dr. Igar Tarasyuk
 Medical Officer (Adult Medicine), BPT(pre-exam), PGY-9  
 APHRA ID: MED0002138284
 
+[https://ragitron.github.io/markdown-cv](https://ragitron.github.io/markdown-cv)
+
 ## Experience
 
 `2024-2026`
 **Rockhampton Base Hospital**, Rockhampton 
-
 
 - Basic Physician Trainee  
 
