@@ -87,7 +87,8 @@ Dr Janaka Hewavithana
 `2025-2026`
 Dr Girish Bommayya
 
-- **Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_ 
+- **Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_
+- girish.bommayya@health.qld.gov.au
 
 <!-- ### Footer
 
