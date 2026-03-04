@@ -10,7 +10,7 @@ APHRA ID: MED0002138284
 ## Experience
 
 `2024-2026`
-**Rockhampton Base Hospital**, Rockhampton 
+**Rockhampton Base Hospital**, Rockhampt
 
 - Basic Physician Trainee  
 
