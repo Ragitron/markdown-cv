@@ -10,7 +10,8 @@ APHRA ID: MED0002138284
 ## Experience
 
 `2024-2026`
-**Rockhampton Base Hospital**, Rockhampton
+**Rockhampton Base Hospital**, Rockhampton 
+
 
 - Basic Physician Trainee  
 
@@ -54,6 +55,7 @@ APHRA ID: MED0002138284
 
 `2010`
 **Australian National University**
+
 - _Bachelor of Medical Science_
 
 ### Certificates
@@ -86,12 +88,7 @@ Dr Janaka Hewavithana
 Dr Girish Bommayya
 
 - **Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_ 
-- girish.bommayya@health.qld.gov.au
-
-
 
 <!-- ### Footer
 
 Last updated: March 2026 -->
-
-
