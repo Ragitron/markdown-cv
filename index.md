@@ -11,7 +11,8 @@ APHRA ID: MED0002138284
 
 `2024-2026`
 **Rockhampton Base Hospital**, Rockhampton 
-Basic Physician Trainee  
+
+- Basic Physician Trainee  
 
 `2023-2024`
 **Sunshine Coast University Hospital**, Sunshine Coast
