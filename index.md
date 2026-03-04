@@ -1,91 +1,83 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dr Igar Tareasyuk
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Dr. Igar Tarasyuk
+Medical Officer (Adult Medicine), BPT(pre-exam), PGY-9  
+APHRA ID: MED0002138284
 
+## Experience
 
-## Currently
+`2024-2026`
+**Rockhampton Base Hospital**, Rockhampton 
+Basic Physician Trainee  
 
-Standing on the shoulders of giants
+`2023-2024`
+**Sunshine Coast University Hospital**, Sunshine Coast
+Basic Physician Trainee
 
-### Specialized in
+`2021-2023`
+**The Prince Charles Hospital**, Brisbane
+Basic Physician Trainee
+Secondment to _Redcliffe Hospital_ and _Royal Brisbane Women's Hospital_ 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2020-2021`
+**Tooowoomba Hospital**, Toowoomba
+Principle House Officer
 
+`2018-2020`
+**The Townsville Hospital**, Townsville
+Junior House Officer, Intern 
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`2010-2013`
+**Laverty Pathology**, Canberra 
+Pathology Aide, Pathology Collector
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017`
+**University of Queensland**
+_Bachelor of Medicine, Bachelor of Surgery_
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013`
+**Australian National University**
+_Master of Biotechonology_
 
-- Sizar
+`2010`
+**Australian National University**
+_Bachelor of Medical Science_
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Certificates
 
-- Fellow
+`2026`
+Advanced Life Support Level 2 
 
+`2026`
+Basic Physician Training
 
+### Hobbies/Interests
 
-## Awards
+Photography, Illustration, Creative and Essay writing  
 
-`2012`
-President, *Royal Society*, London, UK
+## References  
 
-Associate, *French Academy of Science*, Paris, France
+`Dr Jemma Taylor`
+**Rockhampton Base Hospital**, _Director of Medicine/Infectious Disease Staff Specialist_
+jemma.taylor@health.qld.gov.au 
 
+`Dr Janaka Hewavithana`
+**Rockhampton Base Hospital**, _Directory of Medicine/Staff Specialist General Medicine_
+janaka.hewavithana@health.qld.gov.au
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Dr Girish Bommayya`
+**Rockhampton Base Hospital**, _Staff Specialist Renal Medicine_ 
+girish.bommayya@health.qld.gov.au
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
 
 
